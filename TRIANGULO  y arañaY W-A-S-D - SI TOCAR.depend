@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1794739694 source:e:\ming para -c-2-\triangulo y w-a-s-d - si tocar\triangulo y w-a-s-d - si tocar\main.cpp
+	"raylib.h"
+
+1792077562 e:\ming para -c-2-\raylib-6.2_win64_mingw-w64\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1795114062 source:e:\ming para -c-2-\triangulo y w-a-s-d - si tocar\main.cpp
+	"raylib.h"
+	<stdio.h>
+	<string.h>
+
